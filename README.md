@@ -10,4 +10,4 @@
 -To work you need your own API key from Gemini
 then create .env file  and put: 
 
--GOOGLE_API_KEY=your_api_key
+## REACT_APP_GOOGLE_API_KEY=your_api_key
