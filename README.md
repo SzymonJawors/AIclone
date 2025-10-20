@@ -1,4 +1,7 @@
 ## AI CHAT CLONE 
+
+(Opcje: home, zapisane, i pro nie działają są tylko dla wyglądu, nowy chat oraz dwie opcje pod działają)
+
 -Download
 
 -In terminal
