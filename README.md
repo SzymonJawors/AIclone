@@ -33,7 +33,7 @@ npm start
 # 🇬🇧
 
 
-# 🤖 AI CHAT CLONE
+#  AI CHAT CLONE
 
 > A React-based application that allows you to chat with an AI bot.  
 > It uses the **Gemini API**, so you’ll need your own API key for it to work.  
@@ -41,7 +41,7 @@ npm start
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 ### 1. Clone the Repository
 ```bash
