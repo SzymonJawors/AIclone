@@ -9,8 +9,8 @@
 
 ### 1. Sklonuj repozytorium
 ```bash
-git clone https://github.com/uzytkownik/ToDoList.git
-cd ToDoList
+git clone https://github.com/uzytkownik/AIclone.git
+cd AIclone
 ```
 ### 2. Zainstaluj
 
