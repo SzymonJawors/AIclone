@@ -1,16 +1,28 @@
-## AI CHAT CLONE 
+# AI CHAT CLONE
 
-(Opcje: home, zapisane, i pro nie działają są tylko dla wyglądu, nowy chat oraz dwie opcje pod działają)
+  
+> Aplikacja stworzona w React, która umożliwia pisanie z chat botem, jest to API Gemini, trzeba posiadać swoję własne aby aplikacja działała. Niektóre opcje takie jak Home, Zapis, Pro nie działają są tylko dla wyglądu.
 
--Download
+---
 
--In terminal
+## Uruchomienie projektu
 
--npm install
+### 1. Sklonuj repozytorium
+```bash
+git clone https://github.com/uzytkownik/ToDoList.git
+cd ToDoList
+```
+### 2. Zainstaluj
 
--npm start
+```bash
+npm install
+```
+### 3. Uruchom
+```bash
+npm start
+```
+### WAŻNE ! ! !
 
--To work you need your own API key from Gemini
-then create .env file  and put: 
-
-## REACT_APP_GOOGLE_API_KEY=your_api_key
+-Żeby aplikacja dzialała trzeba posiadać własny klucz API od Gemini (można znaleźć na ich stronie), potem stworzyć plik .env w folderze src a w nim wkleić:
+  
+## REACT_APP_GOOGLE_API_KEY=twoj_api_key
