@@ -1,3 +1,6 @@
+# 🇵🇱
+
+
 # AI CHAT CLONE
 
   
@@ -9,7 +12,7 @@
 
 ### 1. Sklonuj repozytorium
 ```bash
-git clone https://github.com/uzytkownik/AIclone.git
+git clone https://github.com/SzymonJawors/AIclone.git
 cd AIclone
 ```
 ### 2. Zainstaluj
@@ -26,3 +29,37 @@ npm start
 -Żeby aplikacja dzialała trzeba posiadać własny klucz API od Gemini (można znaleźć na ich stronie), potem stworzyć plik .env w folderze src a w nim wkleić:
   
 ## REACT_APP_GOOGLE_API_KEY=twoj_api_key
+
+# 🇬🇧
+
+
+# 🤖 AI CHAT CLONE
+
+> A React-based application that allows you to chat with an AI bot.  
+> It uses the **Gemini API**, so you’ll need your own API key for it to work.  
+> Some features such as **Home**, **Save**, and **Pro** are **non-functional** and included for **visual purposes only**.
+
+---
+
+## 🚀 Getting Started
+
+### 1. Clone the Repository
+```bash
+git clone https://github.com/SzymonJawors/AIclone.git
+cd AIclone
+```
+
+### 2. Install
+```bash
+npm install
+```
+
+### 3. Run
+```bash
+npm start
+```
+
+### IMPORTANT ! !
+> To make the application work, you must have your own Gemini API key.
+> Then, create a file named .env inside the src folder and add:
+## REACT_APP_GOOGLE_API_KEY=your_api_key
