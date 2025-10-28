@@ -1,3 +1,6 @@
+
+<img width="1863" height="987" alt="project-2 (2)" src="https://github.com/user-attachments/assets/274e1279-b21a-48ca-a126-7c2ca9afdaf6" />
+
 # 🇵🇱
 
 
